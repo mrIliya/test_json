@@ -1,95 +1,93 @@
-{
-  "posts": [
-    {
-		 "post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-		"post id":1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    }
-  ]
-}
+[
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  },
+  {
+    "post id": 1,
+    "id": 1,
+    "email": "email@email.io",
+    "body": "But i must",
+    "name": "Iliya"
+  }
+]
