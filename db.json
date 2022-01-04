@@ -1,214 +1,167 @@
 {
-  "posts": [
+  "deals": [
     {
-      "postid": 1,
-      "id": 1,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 2,
-      "id": 2,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "1",
+      "_timestamp": 1640001398778,
+      "_signature": "0xc810cddba7761016300f024f75983d8cb230be088cc55b166abfdd5b6b2b99a0727c3b58d33f9a3673bce275c330a3fb9ef8c303261c0328c1666a5d957115501b",
+      "amount": 1,
+      "price": 82400,
+      "wallet": "123",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 3,
-      "id": 3,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "2",
+      "_timestamp": 1640001398778,
+      "_signature": "0xc810cddba7761016300f024f75983d8cb230be088cc55b166abfdd5b6b2b99a0727c3b58d33f9a3673bce275c330a3fb9ef8c303261c0328c1666a5d957115501b",
+      "amount": 1,
+      "price": 82400,
+      "wallet": "123",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 4,
-      "id": 4,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "3",
+      "_timestamp": 1640001398778,
+      "_signature": "0xc810cddba7761016300f024f75983d8cb230be088cc55b166abfdd5b6b2b99a0727c3b58d33f9a3673bce275c330a3fb9ef8c303261c0328c1666a5d957115501b",
+      "amount": 1,
+      "price": 82400,
+      "wallet": "123",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 5,
-      "id": 5,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "4",
+      "_timestamp": 1640001398778,
+      "_signature": "0xc810cddba7761016300f024f75983d8cb230be088cc55b166abfdd5b6b2b99a0727c3b58d33f9a3673bce275c330a3fb9ef8c303261c0328c1666a5d957115501b",
+      "amount": 1,
+      "price": 82400,
+      "wallet": "123",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 6,
-      "id": 6,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "5",
+      "_timestamp": 1640001398778,
+      "_signature": "0xc810cddba7761016300f024f75983d8cb230be088cc55b166abfdd5b6b2b99a0727c3b58d33f9a3673bce275c330a3fb9ef8c303261c0328c1666a5d957115501b",
+      "amount": 1,
+      "price": 82400,
+      "wallet": "123",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 7,
-      "id": 7,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "6",
+      "_timestamp": 1640001398778,
+      "_signature": "0xc810cddba7761016300f024f75983d8cb230be088cc55b166abfdd5b6b2b99a0727c3b58d33f9a3673bce275c330a3fb9ef8c303261c0328c1666a5d957115501b",
+      "amount": 1,
+      "price": 82400,
+      "wallet": "123",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 8,
-      "id": 8,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "7",
+      "_timestamp": 1640001398778,
+      "_signature": "0xc810cddba7761016300f024f75983d8cb230be088cc55b166abfdd5b6b2b99a0727c3b58d33f9a3673bce275c330a3fb9ef8c303261c0328c1666a5d957115501b",
+      "amount": 1,
+      "price": 82400,
+      "wallet": "123",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
+    }
+  ],
+  "orders": [
+    {
+      "_id": "1",
+      "_timestamp": 1638979851007,
+      "_signature": "0x7e5d70a4da516f149a755463c4ec3127674c7463b2493c95f3e8e26a8cda46ac4206d3b1c3cbd4adf21f9d7f946e99decd5e852555586e68f0873706dbd95fe41c",
+      "buy": "USD",
+      "sell": "BTC",
+      "price": 80000,
+      "pricetype": "fixed",
+      "amount": 9999,
+      "amountmin": 10,
+      "wallet": "1234",
+      "info": "Продам сладкие биточки",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 9,
-      "id": 9,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "2",
+      "_timestamp": 1638979851007,
+      "_signature": "0x7e5d70a4da516f149a755463c4ec3127674c7463b2493c95f3e8e26a8cda46ac4206d3b1c3cbd4adf21f9d7f946e99decd5e852555586e68f0873706dbd95fe41c",
+      "buy": "USD",
+      "sell": "BTC",
+      "price": 80000,
+      "pricetype": "fixed",
+      "amount": 9999,
+      "amountmin": 10,
+      "wallet": "1234",
+      "info": "Продам сладкие биточки",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 10,
-      "id": 10,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "3",
+      "_timestamp": 1638979851007,
+      "_signature": "0x7e5d70a4da516f149a755463c4ec3127674c7463b2493c95f3e8e26a8cda46ac4206d3b1c3cbd4adf21f9d7f946e99decd5e852555586e68f0873706dbd95fe41c",
+      "buy": "USD",
+      "sell": "BTC",
+      "price": 80000,
+      "pricetype": "fixed",
+      "amount": 9999,
+      "amountmin": 10,
+      "wallet": "1234",
+      "info": "Продам сладкие биточки",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 11,
-      "id": 11,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "4",
+      "_timestamp": 1638979851007,
+      "_signature": "0x7e5d70a4da516f149a755463c4ec3127674c7463b2493c95f3e8e26a8cda46ac4206d3b1c3cbd4adf21f9d7f946e99decd5e852555586e68f0873706dbd95fe41c",
+      "buy": "USD",
+      "sell": "BTC",
+      "price": 80000,
+      "pricetype": "fixed",
+      "amount": 9999,
+      "amountmin": 10,
+      "wallet": "1234",
+      "info": "Продам сладкие биточки",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 12,
-      "id": 12,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "5",
+      "_timestamp": 1638979851007,
+      "_signature": "0x7e5d70a4da516f149a755463c4ec3127674c7463b2493c95f3e8e26a8cda46ac4206d3b1c3cbd4adf21f9d7f946e99decd5e852555586e68f0873706dbd95fe41c",
+      "buy": "USD",
+      "sell": "BTC",
+      "price": 80000,
+      "pricetype": "fixed",
+      "amount": 9999,
+      "amountmin": 10,
+      "wallet": "1234",
+      "info": "Продам сладкие биточки",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 13,
-      "id": 13,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "6",
+      "_timestamp": 1638979851007,
+      "_signature": "0x7e5d70a4da516f149a755463c4ec3127674c7463b2493c95f3e8e26a8cda46ac4206d3b1c3cbd4adf21f9d7f946e99decd5e852555586e68f0873706dbd95fe41c",
+      "buy": "USD",
+      "sell": "BTC",
+      "price": 80000,
+      "pricetype": "fixed",
+      "amount": 9999,
+      "amountmin": 10,
+      "wallet": "1234",
+      "info": "Продам сладкие биточки",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     },
     {
-      "postid": 14,
-      "id": 14,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 15,
-      "id": 15,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 16,
-      "id": 16,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 17,
-      "id": 17,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 18,
-      "id": 18,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 19,
-      "id": 19,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 20,
-      "id": 20,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 21,
-      "id": 21,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 22,
-      "id": 22,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 23,
-      "id": 23,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 24,
-      "id": 24,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 25,
-      "id": 25,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-    {
-      "postid": 26,
-      "id": 26,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-	 {
-      "postid": 27,
-      "id": 27,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-	 {
-      "postid": 28,
-      "id": 28,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-	 {
-      "postid": 29,
-      "id": 29,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
-    },
-	 {
-      "postid": 30,
-      "id": 30,
-      "email": "email@email.io",
-      "body": "But i must",
-      "name": "Iliya"
+      "_id": "7",
+      "_timestamp": 1638979851007,
+      "_signature": "0x7e5d70a4da516f149a755463c4ec3127674c7463b2493c95f3e8e26a8cda46ac4206d3b1c3cbd4adf21f9d7f946e99decd5e852555586e68f0873706dbd95fe41c",
+      "buy": "USD",
+      "sell": "BTC",
+      "price": 80000,
+      "pricetype": "fixed",
+      "amount": 9999,
+      "amountmin": 10,
+      "wallet": "1234",
+      "info": "Продам сладкие биточки",
+      "uid": "0x1Bf50AAb4A15Fee637D97AE7FaD65cAE97F0bD14"
     }
   ]
 }
